@@ -1,0 +1,1496 @@
+fileFormatVersion: 2
+guid: e59e78fa90bab214b802eec147763547
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Fenton
+  - first:
+      1: 100002
+    second: Fenton Head
+  - first:
+      1: 100004
+    second: Fenton Jaw
+  - first:
+      1: 100006
+    second: Fenton Jaw_End
+  - first:
+      1: 100008
+    second: Fenton L Calf
+  - first:
+      1: 100010
+    second: Fenton L Clavicle
+  - first:
+      1: 100012
+    second: Fenton L Finger0
+  - first:
+      1: 100014
+    second: Fenton L Finger01
+  - first:
+      1: 100016
+    second: Fenton L Finger02
+  - first:
+      1: 100018
+    second: Fenton L Finger1
+  - first:
+      1: 100020
+    second: Fenton L Finger11
+  - first:
+      1: 100022
+    second: Fenton L Finger12
+  - first:
+      1: 100024
+    second: Fenton L Finger2
+  - first:
+      1: 100026
+    second: Fenton L Finger21
+  - first:
+      1: 100028
+    second: Fenton L Finger22
+  - first:
+      1: 100030
+    second: Fenton L Finger3
+  - first:
+      1: 100032
+    second: Fenton L Finger31
+  - first:
+      1: 100034
+    second: Fenton L Finger32
+  - first:
+      1: 100036
+    second: Fenton L Finger4
+  - first:
+      1: 100038
+    second: Fenton L Finger41
+  - first:
+      1: 100040
+    second: Fenton L Finger42
+  - first:
+      1: 100042
+    second: Fenton L Foot
+  - first:
+      1: 100044
+    second: Fenton L Forearm
+  - first:
+      1: 100046
+    second: Fenton L Hand
+  - first:
+      1: 100048
+    second: Fenton L Thigh
+  - first:
+      1: 100050
+    second: Fenton L Toe0
+  - first:
+      1: 100052
+    second: Fenton L UpperArm
+  - first:
+      1: 100054
+    second: Fenton L_Cheek
+  - first:
+      1: 100056
+    second: Fenton L_Cheek_End
+  - first:
+      1: 100058
+    second: Fenton L_Eyeball
+  - first:
+      1: 100060
+    second: Fenton L_Eyeball_End
+  - first:
+      1: 100062
+    second: Fenton L_InnerEyebrow
+  - first:
+      1: 100064
+    second: Fenton L_InnerEyebrow_End
+  - first:
+      1: 100066
+    second: Fenton L_LowerEyelid
+  - first:
+      1: 100068
+    second: Fenton L_LowerEyelid_End
+  - first:
+      1: 100070
+    second: Fenton L_Mouthcorner
+  - first:
+      1: 100072
+    second: Fenton L_Mouthcorner_End
+  - first:
+      1: 100074
+    second: Fenton L_OuterEyebrow
+  - first:
+      1: 100076
+    second: Fenton L_OuterEyebrow_End
+  - first:
+      1: 100078
+    second: Fenton L_UpperEyelid
+  - first:
+      1: 100080
+    second: Fenton L_UpperEyelid_End
+  - first:
+      1: 100082
+    second: Fenton LowerLip
+  - first:
+      1: 100084
+    second: Fenton LowerLip_End
+  - first:
+      1: 100086
+    second: Fenton Neck
+  - first:
+      1: 100088
+    second: Fenton Pelvis
+  - first:
+      1: 100090
+    second: Fenton R Calf
+  - first:
+      1: 100092
+    second: Fenton R Clavicle
+  - first:
+      1: 100094
+    second: Fenton R Finger0
+  - first:
+      1: 100096
+    second: Fenton R Finger01
+  - first:
+      1: 100098
+    second: Fenton R Finger02
+  - first:
+      1: 100100
+    second: Fenton R Finger1
+  - first:
+      1: 100102
+    second: Fenton R Finger11
+  - first:
+      1: 100104
+    second: Fenton R Finger12
+  - first:
+      1: 100106
+    second: Fenton R Finger2
+  - first:
+      1: 100108
+    second: Fenton R Finger21
+  - first:
+      1: 100110
+    second: Fenton R Finger22
+  - first:
+      1: 100112
+    second: Fenton R Finger3
+  - first:
+      1: 100114
+    second: Fenton R Finger31
+  - first:
+      1: 100116
+    second: Fenton R Finger32
+  - first:
+      1: 100118
+    second: Fenton R Finger4
+  - first:
+      1: 100120
+    second: Fenton R Finger41
+  - first:
+      1: 100122
+    second: Fenton R Finger42
+  - first:
+      1: 100124
+    second: Fenton R Foot
+  - first:
+      1: 100126
+    second: Fenton R Forearm
+  - first:
+      1: 100128
+    second: Fenton R Hand
+  - first:
+      1: 100130
+    second: Fenton R Thigh
+  - first:
+      1: 100132
+    second: Fenton R Toe0
+  - first:
+      1: 100134
+    second: Fenton R UpperArm
+  - first:
+      1: 100136
+    second: Fenton R_Cheek
+  - first:
+      1: 100138
+    second: Fenton R_Cheek_End
+  - first:
+      1: 100140
+    second: Fenton R_Eyeball
+  - first:
+      1: 100142
+    second: Fenton R_Eyeball_End
+  - first:
+      1: 100144
+    second: Fenton R_InnerEyebrow
+  - first:
+      1: 100146
+    second: Fenton R_InnerEyebrow_End
+  - first:
+      1: 100148
+    second: Fenton R_LowerEyelid
+  - first:
+      1: 100150
+    second: Fenton R_LowerEyelid_End
+  - first:
+      1: 100152
+    second: Fenton R_Mouthcorner
+  - first:
+      1: 100154
+    second: Fenton R_Mouthcorner_End
+  - first:
+      1: 100156
+    second: Fenton R_OuterEyebrow
+  - first:
+      1: 100158
+    second: Fenton R_OuterEyebrow_End
+  - first:
+      1: 100160
+    second: Fenton R_UpperEyelid
+  - first:
+      1: 100162
+    second: Fenton R_UpperEyelid_End
+  - first:
+      1: 100164
+    second: Fenton Spine
+  - first:
+      1: 100166
+    second: Fenton Spine1
+  - first:
+      1: 100168
+    second: Fenton UpperLip
+  - first:
+      1: 100170
+    second: Fenton UpperLip_End
+  - first:
+      1: 100172
+    second: //RootNode
+  - first:
+      4: 400000
+    second: Fenton
+  - first:
+      4: 400002
+    second: Fenton Head
+  - first:
+      4: 400004
+    second: Fenton Jaw
+  - first:
+      4: 400006
+    second: Fenton Jaw_End
+  - first:
+      4: 400008
+    second: Fenton L Calf
+  - first:
+      4: 400010
+    second: Fenton L Clavicle
+  - first:
+      4: 400012
+    second: Fenton L Finger0
+  - first:
+      4: 400014
+    second: Fenton L Finger01
+  - first:
+      4: 400016
+    second: Fenton L Finger02
+  - first:
+      4: 400018
+    second: Fenton L Finger1
+  - first:
+      4: 400020
+    second: Fenton L Finger11
+  - first:
+      4: 400022
+    second: Fenton L Finger12
+  - first:
+      4: 400024
+    second: Fenton L Finger2
+  - first:
+      4: 400026
+    second: Fenton L Finger21
+  - first:
+      4: 400028
+    second: Fenton L Finger22
+  - first:
+      4: 400030
+    second: Fenton L Finger3
+  - first:
+      4: 400032
+    second: Fenton L Finger31
+  - first:
+      4: 400034
+    second: Fenton L Finger32
+  - first:
+      4: 400036
+    second: Fenton L Finger4
+  - first:
+      4: 400038
+    second: Fenton L Finger41
+  - first:
+      4: 400040
+    second: Fenton L Finger42
+  - first:
+      4: 400042
+    second: Fenton L Foot
+  - first:
+      4: 400044
+    second: Fenton L Forearm
+  - first:
+      4: 400046
+    second: Fenton L Hand
+  - first:
+      4: 400048
+    second: Fenton L Thigh
+  - first:
+      4: 400050
+    second: Fenton L Toe0
+  - first:
+      4: 400052
+    second: Fenton L UpperArm
+  - first:
+      4: 400054
+    second: Fenton L_Cheek
+  - first:
+      4: 400056
+    second: Fenton L_Cheek_End
+  - first:
+      4: 400058
+    second: Fenton L_Eyeball
+  - first:
+      4: 400060
+    second: Fenton L_Eyeball_End
+  - first:
+      4: 400062
+    second: Fenton L_InnerEyebrow
+  - first:
+      4: 400064
+    second: Fenton L_InnerEyebrow_End
+  - first:
+      4: 400066
+    second: Fenton L_LowerEyelid
+  - first:
+      4: 400068
+    second: Fenton L_LowerEyelid_End
+  - first:
+      4: 400070
+    second: Fenton L_Mouthcorner
+  - first:
+      4: 400072
+    second: Fenton L_Mouthcorner_End
+  - first:
+      4: 400074
+    second: Fenton L_OuterEyebrow
+  - first:
+      4: 400076
+    second: Fenton L_OuterEyebrow_End
+  - first:
+      4: 400078
+    second: Fenton L_UpperEyelid
+  - first:
+      4: 400080
+    second: Fenton L_UpperEyelid_End
+  - first:
+      4: 400082
+    second: Fenton LowerLip
+  - first:
+      4: 400084
+    second: Fenton LowerLip_End
+  - first:
+      4: 400086
+    second: Fenton Neck
+  - first:
+      4: 400088
+    second: Fenton Pelvis
+  - first:
+      4: 400090
+    second: Fenton R Calf
+  - first:
+      4: 400092
+    second: Fenton R Clavicle
+  - first:
+      4: 400094
+    second: Fenton R Finger0
+  - first:
+      4: 400096
+    second: Fenton R Finger01
+  - first:
+      4: 400098
+    second: Fenton R Finger02
+  - first:
+      4: 400100
+    second: Fenton R Finger1
+  - first:
+      4: 400102
+    second: Fenton R Finger11
+  - first:
+      4: 400104
+    second: Fenton R Finger12
+  - first:
+      4: 400106
+    second: Fenton R Finger2
+  - first:
+      4: 400108
+    second: Fenton R Finger21
+  - first:
+      4: 400110
+    second: Fenton R Finger22
+  - first:
+      4: 400112
+    second: Fenton R Finger3
+  - first:
+      4: 400114
+    second: Fenton R Finger31
+  - first:
+      4: 400116
+    second: Fenton R Finger32
+  - first:
+      4: 400118
+    second: Fenton R Finger4
+  - first:
+      4: 400120
+    second: Fenton R Finger41
+  - first:
+      4: 400122
+    second: Fenton R Finger42
+  - first:
+      4: 400124
+    second: Fenton R Foot
+  - first:
+      4: 400126
+    second: Fenton R Forearm
+  - first:
+      4: 400128
+    second: Fenton R Hand
+  - first:
+      4: 400130
+    second: Fenton R Thigh
+  - first:
+      4: 400132
+    second: Fenton R Toe0
+  - first:
+      4: 400134
+    second: Fenton R UpperArm
+  - first:
+      4: 400136
+    second: Fenton R_Cheek
+  - first:
+      4: 400138
+    second: Fenton R_Cheek_End
+  - first:
+      4: 400140
+    second: Fenton R_Eyeball
+  - first:
+      4: 400142
+    second: Fenton R_Eyeball_End
+  - first:
+      4: 400144
+    second: Fenton R_InnerEyebrow
+  - first:
+      4: 400146
+    second: Fenton R_InnerEyebrow_End
+  - first:
+      4: 400148
+    second: Fenton R_LowerEyelid
+  - first:
+      4: 400150
+    second: Fenton R_LowerEyelid_End
+  - first:
+      4: 400152
+    second: Fenton R_Mouthcorner
+  - first:
+      4: 400154
+    second: Fenton R_Mouthcorner_End
+  - first:
+      4: 400156
+    second: Fenton R_OuterEyebrow
+  - first:
+      4: 400158
+    second: Fenton R_OuterEyebrow_End
+  - first:
+      4: 400160
+    second: Fenton R_UpperEyelid
+  - first:
+      4: 400162
+    second: Fenton R_UpperEyelid_End
+  - first:
+      4: 400164
+    second: Fenton Spine
+  - first:
+      4: 400166
+    second: Fenton Spine1
+  - first:
+      4: 400168
+    second: Fenton UpperLip
+  - first:
+      4: 400170
+    second: Fenton UpperLip_End
+  - first:
+      4: 400172
+    second: //RootNode
+  - first:
+      74: 7400000
+    second: Man_Run
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Man_Run
+      takeName: Run
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 11.4
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Fenton Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton L Finger01
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton L Finger02
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton L Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton L Finger11
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton L Finger12
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton L Finger2
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton L Finger21
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton L Finger22
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton L Finger3
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton L Finger31
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton L Finger32
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton L Finger4
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton L Finger41
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton L Finger42
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton R Finger01
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton R Finger02
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton R Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton R Finger11
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton R Finger12
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton R Finger2
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton R Finger21
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton R Finger22
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton R Finger3
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton R Finger31
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton R Finger32
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton R Finger4
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton R Finger41
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Fenton R Finger42
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Run(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.101062715, y: 0.018891891, z: 0.04227153, w: 0.9938021}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Fenton
+      parentName: Run(Clone)
+      position: {x: -0.0053381585, y: 0.8489621, z: -0.0010123121}
+      rotation: {x: -0.43462265, y: 0.45797437, z: 0.51691586, w: 0.5780663}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Fenton Pelvis
+      parentName: Fenton
+      position: {x: 0.00003955327, y: -0.07992089, z: 0.15088283}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Fenton L Thigh
+      parentName: Fenton Pelvis
+      position: {x: 0.00000015258789, y: 0.00000017166137, z: 0.08920633}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Fenton L Calf
+      parentName: Fenton L Thigh
+      position: {x: -0.46186316, y: 0, z: -0.0000000047683715}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Fenton L Foot
+      parentName: Fenton L Calf
+      position: {x: -0.38680443, y: 0.00000004529953, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Fenton L Toe0
+      parentName: Fenton L Foot
+      position: {x: -0.10162379, y: 0.14375442, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Fenton R Thigh
+      parentName: Fenton Pelvis
+      position: {x: -0.00000015258789, y: -0.000000076293944, z: -0.08920632}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Fenton R Calf
+      parentName: Fenton R Thigh
+      position: {x: -0.46186316, y: 0.000000009536743, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: Fenton R Foot
+      parentName: Fenton R Calf
+      position: {x: -0.38680434, y: 0, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: Fenton R Toe0
+      parentName: Fenton R Foot
+      position: {x: -0.10162376, y: 0.14375438, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Fenton Spine
+      parentName: Fenton Pelvis
+      position: {x: -0.12030029, y: -0.0016764259, z: -0.000016851425}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Fenton Spine1
+      parentName: Fenton Spine
+      position: {x: -0.2188105, y: -0.00017410278, z: -0.0000027918816}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Fenton L Clavicle
+      parentName: Fenton Spine1
+      position: {x: -0.20388877, y: 0.0017081642, z: 0.07282187}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: Fenton L UpperArm
+      parentName: Fenton L Clavicle
+      position: {x: -0.12036883, y: 0.000000019073486, z: -0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1}
+    - name: Fenton L Forearm
+      parentName: Fenton L UpperArm
+      position: {x: -0.28118828, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: Fenton L Hand
+      parentName: Fenton L Forearm
+      position: {x: -0.2520613, y: 0.000000076293944, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Fenton L Finger0
+      parentName: Fenton L Hand
+      position: {x: -0.024479026, y: 0.02551132, z: -0.03726715}
+      rotation: {x: 0, y: 0.3826835, z: 0, w: -0.9238795}
+      scale: {x: 0.99999964, y: 0.9999995, z: 1}
+    - name: Fenton L Finger01
+      parentName: Fenton L Finger0
+      position: {x: -0.032383613, y: -0.000000076293944, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: Fenton L Finger02
+      parentName: Fenton L Finger01
+      position: {x: -0.036856614, y: -0.000000019073486, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: Fenton L Finger1
+      parentName: Fenton L Hand
+      position: {x: -0.09928837, y: 0.005212936, z: -0.036954783}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000004}
+    - name: Fenton L Finger11
+      parentName: Fenton L Finger1
+      position: {x: -0.0376622, y: -0.000000076293944, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Fenton L Finger12
+      parentName: Fenton L Finger11
+      position: {x: -0.027497023, y: 0, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Fenton L Finger2
+      parentName: Fenton L Hand
+      position: {x: -0.10564441, y: 0.00024650572, z: -0.014060345}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 0.99999976, z: 0.9999999}
+    - name: Fenton L Finger21
+      parentName: Fenton L Finger2
+      position: {x: -0.041166686, y: 0, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Fenton L Finger22
+      parentName: Fenton L Finger21
+      position: {x: -0.031476744, y: 0.000000019073486, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Fenton L Finger3
+      parentName: Fenton L Hand
+      position: {x: -0.10127064, y: -0.0019643402, z: 0.012280597}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000001}
+    - name: Fenton L Finger31
+      parentName: Fenton L Finger3
+      position: {x: -0.039059903, y: -0.000000038146972, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: Fenton L Finger32
+      parentName: Fenton L Finger31
+      position: {x: -0.026184844, y: -0.000000038146972, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Fenton L Finger4
+      parentName: Fenton L Hand
+      position: {x: -0.09345913, y: 0.0031613922, z: 0.03508869}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 0.99999976, z: 1.0000002}
+    - name: Fenton L Finger41
+      parentName: Fenton L Finger4
+      position: {x: -0.029583434, y: 0.000000038146972, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: Fenton L Finger42
+      parentName: Fenton L Finger41
+      position: {x: -0.01879097, y: 0, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Fenton Neck
+      parentName: Fenton Spine1
+      position: {x: -0.264782, y: 0.01563221, z: 0.000000021457671}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Fenton Head
+      parentName: Fenton Neck
+      position: {x: -0.07208275, y: 0.0076041413, z: -0.000000035762785}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 0.99999976, z: 0.9999999}
+    - name: Fenton Jaw
+      parentName: Fenton Head
+      position: {x: -0.020301053, y: 0.041938942, z: -0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: Fenton Jaw_End
+      parentName: Fenton Jaw
+      position: {x: -0.07262432, y: 0.00000030517577, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Fenton LowerLip
+      parentName: Fenton Jaw
+      position: {x: -0.07262394, y: 0.00000061035155, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 0.9999998, z: 1}
+    - name: Fenton LowerLip_End
+      parentName: Fenton LowerLip
+      position: {x: -0.042073973, y: 0, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: Fenton L_Cheek
+      parentName: Fenton Head
+      position: {x: -0.091148525, y: 0.060242116, z: 0.034873493}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0927609, y: 0.99999994, z: 1.0000001}
+    - name: Fenton L_Cheek_End
+      parentName: Fenton L_Cheek
+      position: {x: -0.030107612, y: 0, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Fenton L_Eyeball
+      parentName: Fenton Head
+      position: {x: -0.11050293, y: 0.07435142, z: 0.03335847}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Fenton L_Eyeball_End
+      parentName: Fenton L_Eyeball
+      position: {x: -0.015073986, y: 0.00000015258789, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: Fenton L_InnerEyebrow
+      parentName: Fenton Head
+      position: {x: -0.11187683, y: 0.01500719, z: 0.014504557}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: Fenton L_InnerEyebrow_End
+      parentName: Fenton L_InnerEyebrow
+      position: {x: -0.08591747, y: 0.000000019073486, z: 0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Fenton L_LowerEyelid
+      parentName: Fenton Head
+      position: {x: -0.11050644, y: 0.07433418, z: 0.03335845}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.99999994}
+    - name: Fenton L_LowerEyelid_End
+      parentName: Fenton L_LowerEyelid
+      position: {x: -0.015411949, y: -0.00000030517577, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1.0000001}
+    - name: Fenton L_Mouthcorner
+      parentName: Fenton Head
+      position: {x: -0.028010406, y: 0.027944565, z: 0.010679464}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 1, z: 0.9999999}
+    - name: Fenton L_Mouthcorner_End
+      parentName: Fenton L_Mouthcorner
+      position: {x: -0.072463244, y: -0.000000019073486, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Fenton L_OuterEyebrow
+      parentName: Fenton Head
+      position: {x: -0.11307663, y: 0.013894977, z: 0.030722056}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.9999999}
+    - name: Fenton L_OuterEyebrow_End
+      parentName: Fenton L_OuterEyebrow
+      position: {x: -0.07457847, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Fenton L_UpperEyelid
+      parentName: Fenton Head
+      position: {x: -0.110506475, y: 0.07433416, z: 0.03335846}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Fenton L_UpperEyelid_End
+      parentName: Fenton L_UpperEyelid
+      position: {x: -0.0143948365, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Fenton R_Cheek
+      parentName: Fenton Head
+      position: {x: -0.09107223, y: 0.060253866, z: -0.036045827}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0927609, y: 1, z: 1.0000002}
+    - name: Fenton R_Cheek_End
+      parentName: Fenton R_Cheek
+      position: {x: -0.030107612, y: 0, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Fenton R_Eyeball
+      parentName: Fenton Head
+      position: {x: -0.11050293, y: 0.07435146, z: -0.03332091}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Fenton R_Eyeball_End
+      parentName: Fenton R_Eyeball
+      position: {x: -0.015073948, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: Fenton R_InnerEyebrow
+      parentName: Fenton Head
+      position: {x: -0.11187683, y: 0.01500719, z: -0.01455902}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: Fenton R_InnerEyebrow_End
+      parentName: Fenton R_InnerEyebrow
+      position: {x: -0.08591747, y: 0.000000019073486, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Fenton R_LowerEyelid
+      parentName: Fenton Head
+      position: {x: -0.110506415, y: 0.074334264, z: -0.033320922}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: Fenton R_LowerEyelid_End
+      parentName: Fenton R_LowerEyelid
+      position: {x: -0.015411987, y: -0.00000015258789, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1.0000001}
+    - name: Fenton R_Mouthcorner
+      parentName: Fenton Head
+      position: {x: -0.028010406, y: 0.027944583, z: -0.010567474}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: Fenton R_Mouthcorner_End
+      parentName: Fenton R_Mouthcorner
+      position: {x: -0.07223034, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Fenton R_OuterEyebrow
+      parentName: Fenton Head
+      position: {x: -0.11307663, y: 0.013895035, z: -0.031310424}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Fenton R_OuterEyebrow_End
+      parentName: Fenton R_OuterEyebrow
+      position: {x: -0.074578434, y: 0.000000019073486, z: 0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Fenton R_UpperEyelid
+      parentName: Fenton Head
+      position: {x: -0.110506505, y: 0.07433425, z: -0.033320922}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Fenton R_UpperEyelid_End
+      parentName: Fenton R_UpperEyelid
+      position: {x: -0.0143948365, y: -0.00000015258789, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Fenton UpperLip
+      parentName: Fenton Head
+      position: {x: -0.05962509, y: 0.110070646, z: 0.00000014305114}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Fenton UpperLip_End
+      parentName: Fenton UpperLip
+      position: {x: -0.017649382, y: -0.000000019073486, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Fenton R Clavicle
+      parentName: Fenton Spine1
+      position: {x: -0.20388877, y: 0.0017085647, z: -0.07282186}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Fenton R UpperArm
+      parentName: Fenton R Clavicle
+      position: {x: -0.12036885, y: 0.000000076293944, z: -0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Fenton R Forearm
+      parentName: Fenton R UpperArm
+      position: {x: -0.28118828, y: -0.000000038146972, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 1, z: 0.9999999}
+    - name: Fenton R Hand
+      parentName: Fenton R Forearm
+      position: {x: -0.2520612, y: -0.000000076293944, z: -0.000000038146972}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Fenton R Finger0
+      parentName: Fenton R Hand
+      position: {x: -0.024479026, y: 0.025511473, z: 0.03726715}
+      rotation: {x: 0, y: 0.38268346, z: 0, w: 0.9238795}
+      scale: {x: 0.9999998, y: 0.9999998, z: 1}
+    - name: Fenton R Finger01
+      parentName: Fenton R Finger0
+      position: {x: -0.03238365, y: -0.000000038146972, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Fenton R Finger02
+      parentName: Fenton R Finger01
+      position: {x: -0.036856536, y: 0, z: -0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Fenton R Finger1
+      parentName: Fenton R Hand
+      position: {x: -0.099288255, y: 0.005212936, z: 0.0369548}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000005}
+    - name: Fenton R Finger11
+      parentName: Fenton R Finger1
+      position: {x: -0.037662275, y: 0, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Fenton R Finger12
+      parentName: Fenton R Finger11
+      position: {x: -0.027497023, y: -0.000000038146972, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Fenton R Finger2
+      parentName: Fenton R Hand
+      position: {x: -0.105644375, y: 0.00024642944, z: 0.014060401}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Fenton R Finger21
+      parentName: Fenton R Finger2
+      position: {x: -0.04116684, y: 0, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Fenton R Finger22
+      parentName: Fenton R Finger21
+      position: {x: -0.03147667, y: -0.000000038146972, z: -0.000000095367426}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: Fenton R Finger3
+      parentName: Fenton R Hand
+      position: {x: -0.10127059, y: -0.0019642639, z: -0.012280655}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000001}
+    - name: Fenton R Finger31
+      parentName: Fenton R Finger3
+      position: {x: -0.039059903, y: -0.000000076293944, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: Fenton R Finger32
+      parentName: Fenton R Finger31
+      position: {x: -0.026184615, y: 0.000000038146972, z: 0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Fenton R Finger4
+      parentName: Fenton R Hand
+      position: {x: -0.09345909, y: 0.0031614685, z: -0.03508873}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 0.9999997, z: 1.0000004}
+    - name: Fenton R Finger41
+      parentName: Fenton R Finger4
+      position: {x: -0.02958351, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Fenton R Finger42
+      parentName: Fenton R Finger41
+      position: {x: -0.018790893, y: 0.000000057220458, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
