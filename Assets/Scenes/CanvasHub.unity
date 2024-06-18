@@ -2091,7 +2091,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2357419093722950922, guid: 28c89f890552440488c51216fac4f80a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -29.48896
+      value: -20.79
       objectReference: {fileID: 0}
     - target: {fileID: 2357419093722950922, guid: 28c89f890552440488c51216fac4f80a, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2659,7 +2659,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 287d218118aa5824699d50b348c1535d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: CanvasHub
+  sceneName: Tower Defence
 --- !u!4 &942212154
 Transform:
   m_ObjectHideFlags: 0
