@@ -2577,7 +2577,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 918093780}
+  - component: {fileID: 918093783}
   - component: {fileID: 918093781}
+  - component: {fileID: 918093782}
   m_Layer: 0
   m_Name: Action_OpenDoor
   m_TagString: Untagged
@@ -2614,6 +2616,37 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   obj: {fileID: 550984933}
   state: 0
+--- !u!114 &918093782
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 918093779}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22bdd8491ac3d924fb93d0a45bc15f6d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  variableName: DoorOpen
+  action: 0
+  value: 0
+--- !u!114 &918093783
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 918093779}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f8f61d7ef208864c97a8f6249537488, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  allowedGameState: -1
+  actions:
+  - {fileID: 918093781}
+  - {fileID: 918093782}
 --- !u!1 &942212151
 GameObject:
   m_ObjectHideFlags: 0
