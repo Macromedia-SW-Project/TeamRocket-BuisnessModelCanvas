@@ -31,3 +31,11 @@ MonoBehaviour:
     value: 0
   - name: C_WolfOnGoing
     value: 0
+  - name: TowerDefenceGamePlayed
+    value: 0
+  - name: MemoryGamePlayed
+    value: 0
+  - name: MazeGamePlayed
+    value: 0
+  - name: SnakeGamePlayed
+    value: 0
