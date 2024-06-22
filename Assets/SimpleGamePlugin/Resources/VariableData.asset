@@ -39,3 +39,7 @@ MonoBehaviour:
     value: 0
   - name: SnakeGamePlayed
     value: 0
+  - name: HpReference
+    value: 0
+  - name: SpeedRefernce
+    value: 0
