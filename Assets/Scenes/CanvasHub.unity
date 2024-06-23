@@ -3129,15 +3129,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4279258059187525257, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -18.99
+      value: -16.9
       objectReference: {fileID: 0}
     - target: {fileID: 4279258059187525257, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.050000668
+      value: 0.05000067
       objectReference: {fileID: 0}
     - target: {fileID: 4279258059187525257, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 3.96
+      value: 4.3
       objectReference: {fileID: 0}
     - target: {fileID: 4279258059187525257, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
       propertyPath: m_LocalRotation.w
@@ -3174,6 +3174,18 @@ PrefabInstance:
     - target: {fileID: 6557942014387409637, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
       propertyPath: eventOnTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: ExecuteAction
+      objectReference: {fileID: 0}
+    - target: {fileID: 7868306360626624515, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
+      propertyPath: m_Size.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7868306360626624515, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
+      propertyPath: m_Size.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7868306360626624515, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
+      propertyPath: m_Size.z
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7881240955184949142, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
       propertyPath: m_Name
