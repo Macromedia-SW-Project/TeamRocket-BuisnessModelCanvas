@@ -7248,8 +7248,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1776671156}
+  - component: {fileID: 1776671159}
   - component: {fileID: 1776671157}
-  - component: {fileID: 1776671155}
+  - component: {fileID: 1776671158}
   m_Layer: 0
   m_Name: Spawner
   m_TagString: Untagged
@@ -7257,19 +7258,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1776671155
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1776671154}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0fa9fe56bdb0b5e4592e90586714de95, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  CopiedEnemy: {fileID: 61980653}
 --- !u!4 &1776671156
 Transform:
   m_ObjectHideFlags: 0
@@ -7299,6 +7287,85 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   allowedGameState: -1
   actions: []
+--- !u!114 &1776671158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776671154}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 629831431b0d6c142b4777dccc97794a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  eventOnTriggerEnter:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1776671159}
+        m_TargetAssemblyTypeName: SetVariables, Assembly-CSharp
+        m_MethodName: Normal
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1776671159}
+        m_TargetAssemblyTypeName: SetVariables, Assembly-CSharp
+        m_MethodName: SpawnEnemy
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1776671159}
+        m_TargetAssemblyTypeName: SetVariables, Assembly-CSharp
+        m_MethodName: Speedy
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1776671159}
+        m_TargetAssemblyTypeName: SetVariables, Assembly-CSharp
+        m_MethodName: SpawnEnemy
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  eventOnTriggerExit:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &1776671159
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1776671154}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a68062593cdc1843b2d6c2a6ffb7485, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CopiedEnemy: {fileID: 61980653}
 --- !u!1001 &1808061261
 PrefabInstance:
   m_ObjectHideFlags: 0
