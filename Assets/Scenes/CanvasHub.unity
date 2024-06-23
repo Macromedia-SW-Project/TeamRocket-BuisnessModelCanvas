@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 39896050}
   - component: {fileID: 39896049}
   m_Layer: 0
-  m_Name: Seq_Memory0
+  m_Name: Seq_Snake0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nameToShow: NPC
-  textToShow: Sorry you should play the Memory Game first!
+  textToShow: Sorry you should play the Snake Game first!
   time: 4
   skippable: 1
 --- !u!114 &39896050
@@ -245,7 +245,7 @@ GameObject:
   - component: {fileID: 100426862}
   - component: {fileID: 100426861}
   m_Layer: 0
-  m_Name: Seq_TowerDefPlay
+  m_Name: Seq_Snake2Play
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -280,7 +280,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e07dc66be4ed7349959632dc21fc260, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  variableName: MemoryGamePlayed
+  variableName: SnakeGamePlayed
   vergleich: 0
   value: 0
   sequenceIfTrue: {fileID: 39896050}
@@ -311,7 +311,7 @@ GameObject:
   - component: {fileID: 100513449}
   - component: {fileID: 100513450}
   m_Layer: 0
-  m_Name: ConvoTower
+  m_Name: ConvoTempleRun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -371,7 +371,7 @@ GameObject:
   - component: {fileID: 109138267}
   - component: {fileID: 109138266}
   m_Layer: 0
-  m_Name: MemoryPlayed
+  m_Name: SnakePlayed
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -406,7 +406,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e07dc66be4ed7349959632dc21fc260, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  variableName: MemoryGamePlayed
+  variableName: SnakeGamePlayed
   vergleich: 0
   value: 0
   sequenceIfTrue: {fileID: 1926297389}
@@ -1397,7 +1397,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 287d218118aa5824699d50b348c1535d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Memory
+  sceneName: Snake
 --- !u!4 &262410773
 Transform:
   m_ObjectHideFlags: 0
@@ -2390,7 +2390,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e07dc66be4ed7349959632dc21fc260, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  variableName: MemoryGamePlayed
+  variableName: SnakeGamePlayed
   vergleich: 0
   value: 0
   sequenceIfTrue: {fileID: 895312912}
@@ -2647,7 +2647,7 @@ GameObject:
   - component: {fileID: 489077339}
   - component: {fileID: 489077338}
   m_Layer: 0
-  m_Name: Seq_Snake not played
+  m_Name: Seq_TempleRun not played
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2681,7 +2681,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nameToShow: NPC
-  textToShow: You should play the snake game to understand how it works!
+  textToShow: You should play the Temple Run game to understand how it works!
   time: 4
   skippable: 1
 --- !u!114 &489077339
@@ -3129,15 +3129,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4279258059187525257, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -18.99
+      value: -16.9
       objectReference: {fileID: 0}
     - target: {fileID: 4279258059187525257, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.050000668
+      value: 0.05000067
       objectReference: {fileID: 0}
     - target: {fileID: 4279258059187525257, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 3.96
+      value: 4.3
       objectReference: {fileID: 0}
     - target: {fileID: 4279258059187525257, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
       propertyPath: m_LocalRotation.w
@@ -3174,6 +3174,18 @@ PrefabInstance:
     - target: {fileID: 6557942014387409637, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
       propertyPath: eventOnTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: ExecuteAction
+      objectReference: {fileID: 0}
+    - target: {fileID: 7868306360626624515, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
+      propertyPath: m_Size.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7868306360626624515, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
+      propertyPath: m_Size.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7868306360626624515, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
+      propertyPath: m_Size.z
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7881240955184949142, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
       propertyPath: m_Name
@@ -3978,7 +3990,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e07dc66be4ed7349959632dc21fc260, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  variableName: TowerDefenceGamePlayed
+  variableName: TempleRunGamePlayed
   vergleich: 0
   value: 0
   sequenceIfTrue: {fileID: 1134452372}
@@ -4011,7 +4023,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22bdd8491ac3d924fb93d0a45bc15f6d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  variableName: SnakeGamePlayed
+  variableName: Coins
   action: 1
   value: 1
 --- !u!1 &695206089
@@ -4062,7 +4074,7 @@ MonoBehaviour:
   welcomeSequence: {fileID: 0}
   options:
   - name: Give
-    text: Played Memory
+    text: Played Snake
     enabled: 1
     endConversationAfterwards: 0
     sequence: {fileID: 109138267}
@@ -4905,7 +4917,7 @@ GameObject:
   - component: {fileID: 798019375}
   - component: {fileID: 798019374}
   m_Layer: 0
-  m_Name: Seq_Snake0
+  m_Name: Seq_Temple0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4939,7 +4951,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nameToShow: NPC
-  textToShow: Sorry you should play the Snake Game first!
+  textToShow: Sorry you should play the Temple Run Game first!
   time: 4
   skippable: 1
 --- !u!114 &798019375
@@ -4971,7 +4983,7 @@ GameObject:
   - component: {fileID: 805075756}
   - component: {fileID: 805075755}
   m_Layer: 0
-  m_Name: Seq_Memory played
+  m_Name: Seq_Snake played
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5169,7 +5181,7 @@ GameObject:
   - component: {fileID: 843981885}
   - component: {fileID: 843981884}
   m_Layer: 0
-  m_Name: Seq_Snake1
+  m_Name: Seq_Temple1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5482,7 +5494,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e07dc66be4ed7349959632dc21fc260, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  variableName: SnakeGamePlayed
+  variableName: TempleRunGamePlayed
   vergleich: 0
   value: 0
   sequenceIfTrue: {fileID: 798019375}
@@ -6077,7 +6089,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 287d218118aa5824699d50b348c1535d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Snake
+  sceneName: RunnerLevelEditor
 --- !u!4 &942212154
 Transform:
   m_ObjectHideFlags: 0
@@ -6430,7 +6442,7 @@ GameObject:
   - component: {fileID: 973940637}
   - component: {fileID: 973940636}
   m_Layer: 0
-  m_Name: SnakePlayed
+  m_Name: TempleRunPlayed
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6465,7 +6477,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e07dc66be4ed7349959632dc21fc260, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  variableName: SnakeGamePlayed
+  variableName: TempleRunGamePlayed
   vergleich: 0
   value: 0
   sequenceIfTrue: {fileID: 489077339}
@@ -7917,7 +7929,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nameToShow: NPC
-  textToShow: Sure, have you played the Snake Game?
+  textToShow: Sure, have you played the Temple Run Game?
   time: 4
   skippable: 1
 --- !u!114 &1179725277
@@ -9961,7 +9973,7 @@ GameObject:
   - component: {fileID: 1630015321}
   - component: {fileID: 1630015320}
   m_Layer: 0
-  m_Name: Seq_Memory1
+  m_Name: Seq_Snake1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11806,7 +11818,7 @@ MonoBehaviour:
   welcomeSequence: {fileID: 0}
   options:
   - name: Played
-    text: Played Snake
+    text: Played TempleRun
     enabled: 1
     endConversationAfterwards: 0
     sequence: {fileID: 973940637}
@@ -11957,7 +11969,7 @@ GameObject:
   - component: {fileID: 1926297389}
   - component: {fileID: 1926297388}
   m_Layer: 0
-  m_Name: Seq_Memory not played
+  m_Name: Seq_Snake not played
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11991,7 +12003,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nameToShow: NPC
-  textToShow: You should play the memory game to understand, how it works!
+  textToShow: You should play the Snake game to understand, how it works!
   time: 4
   skippable: 1
 --- !u!114 &1926297389
@@ -12597,7 +12609,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nameToShow: NPC
-  textToShow: Sure, have you played the Memory Game?
+  textToShow: Sure, have you played the Snake Game?
   time: 4
   skippable: 1
 --- !u!114 &1999984776
@@ -13017,7 +13029,7 @@ GameObject:
   - component: {fileID: 2035243797}
   - component: {fileID: 2035243796}
   m_Layer: 0
-  m_Name: Seq_Snake played
+  m_Name: Seq_TempleRun played
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
