@@ -5,15 +5,11 @@ using UnityEngine;
 namespace HyperCasual.Runner
 {
     /// <summary>
-    /// A class used to manage camera movement
-    /// in a Runner game.
+    /// A class used to manage camera movement in a Runner game.
     /// </summary>
     [ExecuteInEditMode]
     public class CameraManager : MonoBehaviour
     {
-        /// <summary>
-        /// Returns the CameraManager.
-        /// </summary>
         public static CameraManager Instance => s_Instance;
         static CameraManager s_Instance;
 
@@ -98,10 +94,6 @@ namespace HyperCasual.Runner
             m_Transform = transform;
         }
 
-        /// <summary>
-        /// Reset the camera to its starting position relative
-        /// to the player.
-        /// </summary>
         public void ResetCamera()
         {
             SetCameraPositionAndOrientation(false);
@@ -162,10 +154,10 @@ namespace HyperCasual.Runner
 
             if (smoothCameraFollow)
             {
-                float lerpAmound = Time.deltaTime * m_SmoothCameraFollowStrength;
+                float lerpAmount = Time.deltaTime * m_SmoothCameraFollowStrength;
 
-                m_Transform.position = Vector3.Lerp(m_Transform.position, offset, lerpAmound);
-                m_Transform.LookAt(Vector3.Lerp(m_Transform.position + m_Transform.forward, lookAtOffset, lerpAmound));
+                m_Transform.position = Vector3.Lerp(m_Transform.position, offset, lerpAmount);
+                m_Transform.LookAt(Vector3.Lerp(m_Transform.position + m_Transform.forward, lookAtOffset, lerpAmount));
 
                 m_Transform.position = new Vector3(m_Transform.position.x, m_Transform.position.y, offset.z);
             }

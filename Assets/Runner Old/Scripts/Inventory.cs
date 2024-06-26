@@ -49,19 +49,27 @@ namespace HyperCasual.Runner
 
         void OnEnable()
         {
-            m_CoinEventListener.Subscribe();
-            m_KeyEventListener.Subscribe();
-            m_WinEventListener.Subscribe();
-            m_LoseEventListener.Subscribe();
+            if (m_CoinEventListener != null && m_CoinEventListener.m_Event != null)
+                m_CoinEventListener.Subscribe();
+            if (m_KeyEventListener != null && m_KeyEventListener.m_Event != null)
+                m_KeyEventListener.Subscribe();
+            if (m_WinEventListener != null && m_WinEventListener.m_Event != null)
+                m_WinEventListener.Subscribe();
+            if (m_LoseEventListener != null && m_LoseEventListener.m_Event != null)
+                m_LoseEventListener.Subscribe();
             Debug.Log("Subscribed to events.");
         }
 
         void OnDisable()
         {
-            m_CoinEventListener.Unsubscribe();
-            m_KeyEventListener.Unsubscribe();
-            m_WinEventListener.Unsubscribe();
-            m_LoseEventListener.Unsubscribe();
+            if (m_CoinEventListener != null && m_CoinEventListener.m_Event != null)
+                m_CoinEventListener.Unsubscribe();
+            if (m_KeyEventListener != null && m_KeyEventListener.m_Event != null)
+                m_KeyEventListener.Unsubscribe();
+            if (m_WinEventListener != null && m_WinEventListener.m_Event != null)
+                m_WinEventListener.Unsubscribe();
+            if (m_LoseEventListener != null && m_LoseEventListener.m_Event != null)
+                m_LoseEventListener.Unsubscribe();
             Debug.Log("Unsubscribed from events.");
         }
 
@@ -150,3 +158,8 @@ namespace HyperCasual.Runner
         }
     }
 }
+
+
+
+
+

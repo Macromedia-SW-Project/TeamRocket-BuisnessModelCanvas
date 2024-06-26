@@ -1,5 +1,5 @@
 using System;
-using UnityEngine;  // Ensure you have the UnityEngine namespace included for Debug.Log
+using UnityEngine;
 
 namespace HyperCasual.Core
 {
@@ -24,15 +24,7 @@ namespace HyperCasual.Core
         /// </summary>
         public void Subscribe()
         {
-            if (m_Event != null)
-            {
-                Debug.Log("Subscribing to event.");
-                m_Event.AddListener(this);
-            }
-            else
-            {
-                Debug.LogWarning("m_Event is null in Subscribe.");
-            }
+            m_Event.AddListener(this);
         }
 
         /// <summary>
@@ -42,7 +34,6 @@ namespace HyperCasual.Core
         {
             if (m_Event != null)
             {
-                Debug.Log("Unsubscribing from event.");
                 m_Event.RemoveListener(this);
             }
             else
@@ -60,3 +51,4 @@ namespace HyperCasual.Core
         }
     }
 }
+
