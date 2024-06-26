@@ -3177,15 +3177,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7868306360626624515, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
       propertyPath: m_Size.x
-      value: 2
+      value: 7.448143
       objectReference: {fileID: 0}
     - target: {fileID: 7868306360626624515, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
       propertyPath: m_Size.y
-      value: 2
+      value: 2.2367096
       objectReference: {fileID: 0}
     - target: {fileID: 7868306360626624515, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
       propertyPath: m_Size.z
-      value: 2
+      value: 6.368189
+      objectReference: {fileID: 0}
+    - target: {fileID: 7868306360626624515, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
+      propertyPath: m_Center.x
+      value: -0.1091423
+      objectReference: {fileID: 0}
+    - target: {fileID: 7868306360626624515, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
+      propertyPath: m_Center.y
+      value: 0.118355036
+      objectReference: {fileID: 0}
+    - target: {fileID: 7868306360626624515, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
+      propertyPath: m_Center.z
+      value: -0.68592167
       objectReference: {fileID: 0}
     - target: {fileID: 7881240955184949142, guid: d29b044fa3eb83a4a8fe0b810fb500a8, type: 3}
       propertyPath: m_Name
@@ -8880,7 +8892,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 408256942976a0b45be9d4b3d40a0956, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  title: New Scene
+  title: PlayTemple Run
   sequenceOnInteraction: {fileID: 942212152}
   selected: 0
   selectionHighlightUI_Index: 0
