@@ -24,9 +24,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Pong 2D.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/RunnerLevelEditor.unity
+    path: Assets/Scene/RunnerLevelEditor.unity
     guid: c18bbe39f11fb4109b83e6914a7d16de
   - enabled: 1
     path: Assets/Scenes/Snake.unity
     guid: 5336452c7713d83468f643f89c56572b
+  - enabled: 1
+    path: Assets/Scenes/Maze Game Neu.unity
+    guid: 6e756f646c9df95489b5627aa3680e58
   m_configObjects: {}
